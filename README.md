@@ -1,2 +1,2 @@
-# Pigeon's Cities Skylines Assets
+# Pigeon's *Cities: Skylines* assets
 > A collection of custom assets for Cities: Skylines.
